@@ -1,4 +1,4 @@
-Shell Scripts Practices
+# Shell Scripts Practices
 
 In this scripts we learn usage of
 
